@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im a student science at University of Havana.
+I am a student of Computer Science at the University of Havana.
 <!--
 **rainel99/rainel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
